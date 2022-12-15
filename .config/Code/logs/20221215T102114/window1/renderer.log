@@ -1,0 +1,43 @@
+2022-12-15 10:21:15.660 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-15 10:21:15.703 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.codelens.npmScripts'. This property is already registered.
+2022-12-15 10:21:15.704 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.terminalOptions'. This property is already registered.
+2022-12-15 10:21:15.705 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.automaticallyTunnelRemoteServer'. This property is already registered.
+2022-12-15 10:21:15.706 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.debugByLinkOptions'. This property is already registered.
+2022-12-15 10:21:15.708 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.pickAndAttachOptions'. This property is already registered.
+2022-12-15 10:21:15.708 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachFilter'. This property is already registered.
+2022-12-15 10:21:15.709 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachSmartPattern'. This property is already registered.
+2022-12-15 10:21:15.709 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.breakOnConditionalError'. This property is already registered.
+2022-12-15 10:21:15.709 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.unmapMissingSources'. This property is already registered.
+2022-12-15 10:21:15.709 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.defaultRuntimeExecutable'. This property is already registered.
+2022-12-15 10:21:15.710 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.resourceRequestOptions'. This property is already registered.
+2022-12-15 10:21:15.710 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-12-15 10:21:15.781 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.781 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.781 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.782 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeCustomBreakpoint` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.782 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.782 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.782 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.783 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.783 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.783 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.783 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.783 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.784 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.784 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.784 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.784 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.785 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.785 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.785 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.785 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.786 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.786 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.786 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` appears multiple times in the `commands` section.
+2022-12-15 10:21:15.861 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsBrowserBreakpoints`
+2022-12-15 10:21:15.861 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsExcludedCallers`
+2022-12-15 10:21:16.409 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-15 10:21:17.513 [error] [Extension Host] (node:10858) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+2022-12-15 10:21:18.284 [info] [perf] Render performance baseline is 29ms
+2022-12-15 10:21:18.498 [error] [Extension Host] validating /home/xd/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.200/x86_64-unknown-linux-musl/TabNine timeout

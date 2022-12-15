@@ -1,0 +1,3 @@
+[Added Associations]
+font/ttf=org.gnome.FontManager.desktop;
+text/plain=org.kde.kwrite.desktop;org.kde.kate.desktop;

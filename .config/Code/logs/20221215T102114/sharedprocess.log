@@ -1,0 +1,8 @@
+2022-12-15 10:21:16.465 [info] Starting worker process with pid 10909 (type: fileWatcher, window: 1).
+2022-12-15 10:21:19.200 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2022-12-15 10:21:20.300 [info] Installing extension: ms-vscode.js-debug-nightly
+2022-12-15 10:21:22.667 [info] Extracted extension to /home/xd/.vscode/extensions/.2afde156-747c-4b48-ae87-d49134841fd3: ms-vscode.js-debug-nightly
+2022-12-15 10:21:22.695 [info] Renamed to /home/xd/.vscode/extensions/ms-vscode.js-debug-nightly-2022.12.1417
+2022-12-15 10:21:22.704 [info] Extracting completed. ms-vscode.js-debug-nightly
+2022-12-15 10:21:22.719 [info] Extension installed successfully: ms-vscode.js-debug-nightly
+2022-12-15 10:21:22.764 [info] Marked extension as uninstalled ms-vscode.js-debug-nightly-2022.12.1317

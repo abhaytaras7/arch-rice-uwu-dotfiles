@@ -1,0 +1,34 @@
+2022-12-14 17:23:04.730 [info] Extension host with pid 26793 started
+2022-12-14 17:23:04.854 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-12-14 17:23:04.855 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-14 17:23:04.855 [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve, startup: true, activationEvent: '*'
+2022-12-14 17:23:04.855 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2022-12-14 17:23:04.855 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2022-12-14 17:23:04.856 [info] ExtensionService#_doActivateExtension helgardrichard.helium-icon-theme, startup: true, activationEvent: '*'
+2022-12-14 17:23:04.856 [info] ExtensionService#_doActivateExtension mutantdino.resourcemonitor, startup: true, activationEvent: '*'
+2022-12-14 17:23:04.856 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-14 17:23:05.071 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-14 17:23:05.072 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-14 17:23:05.072 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-14 17:23:05.072 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-14 17:23:05.072 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-14 17:23:05.072 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-14 17:23:05.271 [info] Eager extensions activated
+2022-12-14 17:23:05.289 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-12-14 17:23:05.322 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.323 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.323 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.323 [info] ExtensionService#_doActivateExtension bierner.emojisense, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.323 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.323 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.323 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.324 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2022-12-14 17:23:05.324 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.324 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.324 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.731 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:05.955 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onLanguage:ReactNativeToolsOutput', root cause: msjsdiag.vscode-react-native
+2022-12-14 17:23:06.033 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 17:23:06.102 [info] ExtensionService#_doActivateExtension msjsdiag.vscode-react-native, startup: false, activationEvent: 'onLanguage:ReactNativeToolsOutput'
+2022-12-14 17:24:14.920 [info] Extension host terminating: received terminate message from renderer
+2022-12-14 17:24:15.271 [info] Extension host with pid 26793 exiting with code 0

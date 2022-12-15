@@ -1,0 +1,9 @@
+[Event/lowbattery]
+Execute=
+Logfile=
+TTS=
+
+[Event/pluggedin]
+Execute=
+Logfile=
+TTS=

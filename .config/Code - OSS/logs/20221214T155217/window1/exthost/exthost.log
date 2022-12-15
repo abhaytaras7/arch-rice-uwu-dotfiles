@@ -1,0 +1,9 @@
+2022-12-14 15:52:19.790 [info] Extension host with pid 6181 started
+2022-12-14 15:52:19.846 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-14 15:52:19.854 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-14 15:52:19.862 [info] Eager extensions activated
+2022-12-14 15:52:19.865 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 15:52:19.866 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 15:52:19.866 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 15:52:28.997 [info] Extension host terminating: received terminate message from renderer
+2022-12-14 15:52:29.002 [info] Extension host with pid 6181 exiting with code 0

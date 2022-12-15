@@ -1,0 +1,12 @@
+[Badges]
+InTaskManager=false
+
+[DoNotDisturb]
+WhenScreensMirrored=false
+
+[Jobs]
+InNotifications=false
+
+[Notifications]
+CriticalInDndMode=false
+LowPriorityPopups=false
