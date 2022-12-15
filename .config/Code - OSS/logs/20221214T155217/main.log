@@ -1,4 +1,0 @@
-2022-12-14 15:52:17.768 [info] update#ctor - updates are disabled as there is no update URL
-2022-12-14 15:52:19.395 [info] Starting extension host with pid 6181 (fork() took 12 ms).
-2022-12-14 15:52:29.022 [info] Waiting for extension host with pid 6181 to exit.
-2022-12-14 15:52:29.031 [info] Extension host with pid 6181 exited with code: 0, signal: null.

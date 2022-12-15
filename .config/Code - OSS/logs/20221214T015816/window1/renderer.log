@@ -1,4 +1,0 @@
-2022-12-14 01:58:17.829 [info] Started initializing default profile extensions in extensions installation folder. file:///home/xd/.vscode-oss/extensions
-2022-12-14 01:58:17.849 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/xd/.vscode-oss/extensions
-2022-12-14 01:58:20.862 [info] [perf] Render performance baseline is 89ms
-2022-12-14 01:58:27.766 [error] Error while registering log channel file:///home/xd/.config/Code%20-%20OSS/logs/20221214T015816/userDataSync.log Timed out while waiting for file to be created
